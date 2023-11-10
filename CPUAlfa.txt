@@ -1,0 +1,31 @@
+Nombre de host:                            DESKTOP-ROL4CP2
+Nombre del sistema operativo:              Microsoft Windows 10 Pro
+Versión del sistema operativo:             10.0.19045 N/D Compilación 19045
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              agustin.g.teira@gmail.com
+Organización registrada:
+Id. del producto:                          00330-80000-00000-AA086
+Fecha de instalación original:             27/3/2022, 01:59:39
+Tiempo de arranque del sistema:            9/11/2023, 11:50:25
+Fabricante del sistema:                    ASUS
+Modelo el sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3801 Mhz
+Versión del BIOS:                          American Megatrends Inc. 3604, 25/2/2022
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume4
+Configuración regional del sistema:        580a
+Idioma de entrada:                         es-mx;Español (México)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          15,663 MB
+Memoria física disponible:                 8,243 MB
+Memoria virtual: tamaño máximo:            16,687 MB
+Memoria virtual: disponible:               7,155 MB
+Memoria virtual: en uso:                   9,532 MB
+Ubicación(es) de archivo de paginación:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-ROL4CP2
