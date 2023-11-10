@@ -37,3 +37,60 @@ Adaptador de LAN inal▒mbrica Wi-Fi:
    Puerta de enlace predeterminada . . . . . : fe80::a3e:5dff:fe53:8e8c%16
                                        192.168.0.1
 12:29
+
+
+
+
+Agustin Teira
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::f65a:6b39:4dc6:ba8%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 11:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet VMware Network Adapter VMnet1:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::998c:5fd9:198:4b17%8
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.202.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet VMware Network Adapter VMnet8:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::f76d:9867:df3f:4f44%19
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.80.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : 192.168.1.33
+   Vínculo: dirección IPv6 local. . . : fe80::d83a:aa16:e7e9:a6e7%9
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.11
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+
+12:36
