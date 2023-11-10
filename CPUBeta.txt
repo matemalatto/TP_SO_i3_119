@@ -1,0 +1,31 @@
+Nombre de host:                            DESKTOP-OC8789M
+Nombre del sistema operativo:              Microsoft Windows 10 Home Single Language
+Versión del sistema operativo:             10.0.19045 N/D Compilación 19045
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              mateomalatto@gmail.com
+Organización registrada:
+Id. del producto:                          00327-30000-00000-AAOEM
+Fecha de instalación original:             2/3/2021, 14:06:41
+Tiempo de arranque del sistema:            5/11/2023, 18:27:28
+Fabricante del sistema:                    SAMSUNG ELECTRONICS CO., LTD.
+Modelo el sistema:                         300E4C/300E5C/300E7C
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~2501 Mhz
+Versión del BIOS:                          Phoenix Technologies Ltd. P09RAP, 1/11/2013
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuración regional del sistema:        es;Español (internacional)
+Idioma de entrada:                         es-mx;Español (México)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          3.798 MB
+Memoria física disponible:                 394 MB
+Memoria virtual: tamaño máximo:            15.574 MB
+Memoria virtual: disponible:               7.300 MB
+Memoria virtual: en uso:                   8.274 MB
+Ubicación(es) de archivo de paginación:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-OC8789M
