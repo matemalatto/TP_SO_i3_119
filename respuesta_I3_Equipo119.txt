@@ -1,0 +1,11 @@
+Mateo Malatto
+Agustin Teira
+
+1) Tras hacer el merge de las otras ramas, la master queda actualizada con los respectivos cambios de cada rama.
+2) Sí, puedo ver todos los cambios realizados por los otros.
+3) git commit -m "Pasos 4 y 5. Beta" git push origin Teira 
+git commit -m "Paso 5. Beta" 
+git push origin master 
+git checkout main 
+git merge Teira 
+git push origin main
