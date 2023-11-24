@@ -9,3 +9,18 @@ git push origin master
 git checkout main 
 git merge Teira 
 git push origin main
+D)No, al menos que se haga el merge
+E)No tuvimos ningun problema al hacer el merge, ya que realizamos los pasos correctamente
+F)git fetch
+git pull
+(Hago los cambios en el archivo de texto
+git add .
+git commit "punto 7"
+git push
+G) 
+git fetch
+git pull
+(Hago los cambios en el archivo de texto
+git add .
+git commit "punto 8"
+git push
